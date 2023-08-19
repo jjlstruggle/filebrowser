@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+.arco-table-cell .arco-space-item {
+  user-select: none;
+}
